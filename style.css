@@ -15,6 +15,12 @@ form {
 	padding: 10px, 20px;
 }
 
+.gifBtn:focus {
+	background-color: cornflowerblue;
+	font-size: 16px;
+	color: white;
+}
+
 #gifs_view {
 	text-align: center;
-}
+} 
